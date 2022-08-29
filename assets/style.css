@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+}
+li{
+    list-style-type: none;
+}
+#main-card{
+    margin: 0 auto;
+}
+button{
+    display: block;
+    margin: 5px auto;
+}
